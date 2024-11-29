@@ -7,10 +7,9 @@ The Tableau dashboard enables exploration of this data through visual analytics,
 # Objectives
 To create an interactive, user-friendly dashboard using Tableau.
 To analyze Airbnb data for trends in pricing, bookings, and customer behavior.
-To provide valuable insights for Airbnb hosts, renters, and market analysts.
 # Tools and Technologies
 Visualization Tool: Tableau
-Dataset: Airbnb listing and booking data
+Dataset: Airbnb listings
 # Dashboard Features
 1. Key Performance Indicators (KPIs)
 Average price per bedroom.
