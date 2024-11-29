@@ -19,6 +19,8 @@ Price by zipcode.
 Map visualization of listings by location.
 Regional pricing trends.
 
+# Dataset Link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+
 # Contributions
 Contributions are welcome! If you have ideas for improving the dashboard or additional analyses to include, feel free to submit a pull request.
 
